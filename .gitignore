@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller output (upload the .exe to GitHub Releases instead)
+build/
+dist/
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

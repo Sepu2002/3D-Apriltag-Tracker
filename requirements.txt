@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.7
+numpy
+matplotlib
+pygrabber; sys_platform == "win32"
